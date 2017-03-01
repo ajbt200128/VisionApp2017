@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\Vision\openCVLibrary320\unspecified\jars\classes.jar"
+        revision="24.0.2"
+        sha1="038e8806866760ccd8568b401b8052e937e4be1a">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5d75384960c6becaccbc1e0779b7a13988741a90.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-7d0be924a9f82cc1c91ec9aa87db0a223b2e56f8.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ea220da6cfb107005cb5df6eee7f05288741e903.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-0aee3f017e1f6dcd69c7b6fd094c2697609fc428.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-ae9239969aaa1cbba5f7c62dd81f4b68b1d4fb4d.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\libs\NetworkTables.jar"
+        revision="24.0.2"
+        sha1="008932854ad4b70792ade86e6d6853b9b2ec4c00">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\NetworkTables-697933b568a7d3b9521eb5f9dbddf8cff22c8301.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-41ce94770958b77638ba927df4c048aa426caf57.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0e59080df2ac2bbe3bdda96ba80dff7bfdae8516.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8fbb46e2ba83f40d1b486f45a6a7f7886c39ded4.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AppData\Local\Android\SDK\platforms\android-24\optional\org.apache.http.legacy.jar"
+        revision="24.0.2"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-7c9e9440bc413a82ffdcdaf16c3a840ee7328fc9.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6dfa270285cbc6c2e1951effac8bf63164a0023b.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AppData\Local\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.2.1-412b7a2cb699cb82118e91e797b9bd6115dbeca2.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-3a679436b38513cfe3936547c2368d361a1e3989.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AppData\Local\Android\SDK\platforms\android-24\android.jar"
+        revision="24.0.2"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-eb0338ff535b982609e9ded91974b15d9c39c8d0.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-339e4278fd8425d34b7c471f9a7bf2ab14854114.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-b17aebbbe26fe56aaf4c9c395c0b6c60be60cb1b.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c98c822e37d49249fe0ec5f0a888c0b94cac0022.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-12d2e2d5f9812939bc09d903d7def857f2e7a4ca.jar" />
+    </item>
+    <item
+        jar="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9b3cc75a72b75208321ddd7baabed625cf43cbc1.jar" />
+    </item>
+
+</items>
