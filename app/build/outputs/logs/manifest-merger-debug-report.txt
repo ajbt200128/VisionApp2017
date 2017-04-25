@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:3:11-40
 		INJECTED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml
@@ -15,15 +15,15 @@ ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidMani
 		INJECTED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml
 application
 ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Austin\.android\build-cache\8c860907db6745afecfb1a4ab0cdb79f564ac585\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Austin\.android\build-cache\0f7b13a36eafa04ef0c92b23883451395365ff77\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Austin\.android\build-cache\63b8eea4797eead8d63c0013841986609a1c9cd2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Austin\.android\build-cache\f3599e65ed29d560efd5f09699d8ca282a0eba77\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Austin\.android\build-cache\f1d629c6bffaa39d9a72b21272e5760727cdf81e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Austin\.android\build-cache\7dc26574bcf2ec6ec665f178577d7c44d57683ec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Austin\.android\build-cache\8c989eefb0495c5cebc54393c23d2c8a7344e09a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Austin\.android\build-cache\fe22e18c823dedcba98c9b14e2cb664f6e5f9a2a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Austin\.android\build-cache\e20bef989d824a1b0a4b7c1c9207a7ead85e7d76\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -54,36 +54,40 @@ uses-permission#android.permission.CAMERA
 ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:19:5-64
 	android:name
 		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:20:22-64
 uses-feature#android.hardware.camera
-ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:21:5-59
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:22:5-59
 	android:name
-		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:21:19-57
+		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:22:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:22:5-69
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:23:5-69
 	android:name
-		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:22:19-67
+		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:23:19-67
 uses-feature#android.hardware.camera.front
-ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:23:5-65
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:24:5-65
 	android:name
-		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:23:19-63
+		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:24:19-63
 uses-feature#android.hardware.camera.front.autofocus
-ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:24:5-75
+ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:25:5-75
 	android:name
-		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:24:19-73
+		ADDED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml:25:19-73
 uses-sdk
 INJECTED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [Vision:openCVLibrary320:unspecified] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\Vision\openCVLibrary320\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Austin\.android\build-cache\8c860907db6745afecfb1a4ab0cdb79f564ac585\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Austin\.android\build-cache\0f7b13a36eafa04ef0c92b23883451395365ff77\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Austin\.android\build-cache\63b8eea4797eead8d63c0013841986609a1c9cd2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Austin\.android\build-cache\f3599e65ed29d560efd5f09699d8ca282a0eba77\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Austin\.android\build-cache\f1d629c6bffaa39d9a72b21272e5760727cdf81e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Austin\.android\build-cache\7dc26574bcf2ec6ec665f178577d7c44d57683ec\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Austin\.android\build-cache\8c989eefb0495c5cebc54393c23d2c8a7344e09a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Austin\.android\build-cache\fe22e18c823dedcba98c9b14e2cb664f6e5f9a2a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Austin\.android\build-cache\e20bef989d824a1b0a4b7c1c9207a7ead85e7d76\output\AndroidManifest.xml:21:5-23:58
+MERGED from [Vision:openCVLibrary320:unspecified] E:\Users\Austin\AndroidStudioProjects\Vision\openCVLibrary320\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\Users\Austin\AndroidStudioProjects\Vision\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Austin\.android\build-cache\8c860907db6745afecfb1a4ab0cdb79f564ac585\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Users\Austin\AndroidStudioProjects\Vision\app\src\main\AndroidManifest.xml
